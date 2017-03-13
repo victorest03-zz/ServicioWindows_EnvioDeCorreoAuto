@@ -1,0 +1,9 @@
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\bin\Debug\wintest.exe.config
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.csprojResolveAssemblyReference.cache
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.Form1.resources
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.Properties.Resources.resources
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.csproj.GenerateResource.Cache
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\bin\Debug\wintest.exe
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\bin\Debug\wintest.pdb
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.exe
+C:\Users\PepsiMan\Desktop\WindowsService1\wintest\obj\Debug\wintest.pdb
